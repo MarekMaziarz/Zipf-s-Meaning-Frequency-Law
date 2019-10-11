@@ -19,4 +19,5 @@ Wordnet data were excerpted from wordnets in the Open Multilingual Wordnet (http
 7. Wordnet Bahasa - MIT licence (http://compling.hss.ntu.edu.sg/omw/wns/ind/LICENSE)
 8. OpenWN-PT - CC BY-SA
 
-Sherlock Holmes sense-annotated stories are available under the Creative Commons–Attribute 3.0 Unported license(CC by), they are a part of the NTU Multilingual Corpus (http://compling.hss.ntu.edu.sg/ntumc/) . Canonical Citation: Liling Tan and Francis Bond. 2012. Building and annotating the linguistically diverse NTU-MC (NTU-multilingual corpus). In International Journal of Asian Language Processing 22(4) pp 161–174.
+to cite:
+Bond, Francis, Janz, Arkadiusz, Maziarz, Marek, and Rudnicka, Ewa (2019). Testing Zipf's meaning-frequency law with wordnets as sense inventories. In: Proceedings of the 10th Global Wordnet Conference, Wrocław.
