@@ -1,0 +1,189 @@
+﻿################################################################
+# MEANS & RESIDUALS FOR RANK BINS
+################################################################
+
+
+library(lattice)
+
+
+##################################################################
+# Symbols: man = zh, jap = jp, eng = en, ind = id
+# please choose a proper corpus, the lists have to be sorted according to ranks
+################################################################
+a<-read.csv("sh-eng.txt",header=T,sep="\t")
+# a<-read.csv("sh-ind.txt",header=T,sep="\t")
+# a<-read.csv("sh-jap.txt",header=T,sep="\t")
+# a<-read.csv("sh-man.txt",header=T,sep="\t")
+
+
+
+
+a <- a[ which(log10(a$Freq)< 2), ]
+
+
+
+
+wrank<-matrix(0,50,6)
+wfreq<-matrix(0,50,6)
+a <- a[ which(a$Freq>1), ]
+
+
+list_length<-length(a[,1])
+maximum_rank<-a$Rank[list_length]
+
+
+
+
+for(lambda in seq(1, 99, by = 2)){
+
+
+k<-round(maximum_rank/lambda, digits = 0)
+m<-matrix(0,k,3)
+p<-0
+pp<-0
+old<-1
+
+
+
+
+for(i in 1:k){ # bin
+for(j in old:list_length){ # instances
+if((a$Rank[j] <= (i*lambda))&(a$Rank[j] >= ((i-1)*lambda+1))){
+p<-p+1
+m[i,1]<-m[i,1]+a$Senses[j]
+m[i,2]<-m[i,2]+a$Freq[j]
+# m[i,2]<-m[i,2]+a$FreqIPM[j]
+m[i,3]<-m[i,3]+a$Rank[j]
+}
+
+
+if(p>0){pp<-pp+1}
+if(pp>lambda){
+old=j-lambda+p
+break}
+                } # instances
+if(p==0){
+m[i,1]<-NaN
+m[i,2]<-NaN
+m[i,3]<-NaN
+} else{
+m[i,1]<-m[i,1]/p
+m[i,2]<-m[i,2]/p
+m[i,3]<-m[i,3]/p
+}
+
+
+p<-0
+pp<-0
+} # bins
+
+
+m<-na.omit(m)
+
+
+
+
+# FREQ
+sum<-lm(log10(m[,1])~log10(m[,2]))
+
+
+
+
+wfreq[(lambda+1)/2,1]<-summary(sum)$r.squared
+wfreq[(lambda+1)/2,2]<-shapiro.test(sum$residuals)$p.value
+wfreq[(lambda+1)/2,3]<-lambda
+wfreq[(lambda+1)/2,4]<-k
+wfreq[(lambda+1)/2,5]<-summary(sum)$coefficients[2]
+wfreq[(lambda+1)/2,6]<-summary(sum)$coefficients[8]
+
+
+
+
+
+
+
+
+
+
+# RANK
+sum<-lm(log10(m[,1])~log10(m[,3]))
+
+
+
+
+wrank[(lambda+1)/2,1]<-summary(sum)$r.squared
+wrank[(lambda+1)/2,2]<-shapiro.test(sum$residuals)$p.value
+wrank[(lambda+1)/2,3]<-lambda
+wrank[(lambda+1)/2,4]<-k
+wrank[(lambda+1)/2,5]<-summary(sum)$coefficients[2]
+wrank[(lambda+1)/2,6]<-summary(sum)$coefficients[8]
+
+
+
+
+}
+
+
+
+
+write.csv(wfreq,"wfreq-sh.csv")
+write.csv(wrank,"wrank-sh.csv")
+
+
+###################################################
+# Plots
+###################################################
+library(latticeExtra)
+
+
+# R-squared
+###################################################
+c<-read.csv("wrank-sh.csv",header=T,sep=",")
+wrank<-c[,2:5]
+obj1 <- xyplot((wrank[,1]) ~ wrank[,3], type = "l",ylab="R-squared value",xlab="word bin size",main="Sherlock Holmes Corpus (en)",ylim=c(0,1)) # en
+obj2 <- xyplot(wrank[,2] ~ wrank[,3], type = c("l"),ylab="Shapiro-Wilk test p-value",scales =list(y = list(log = 10),at=c(0.01,1),limits=c(0.001,10000)),pch=4)
+obj2b<- update(obj2, panel=function(...){ 
+        panel.xyplot(...) 
+  panel.abline(h=-2,type="l",lty=2) 
+} )
+objAR<-doubleYScale(obj1, obj2b, add.ylab2 = TRUE) # en
+pdf("R2_loss_SH.pdf")
+plot(objAR)
+dev.off()
+
+
+
+
+##########################################################
+## slope
+#########################################################
+
+
+c<-read.csv("wrank-sh.csv",header=T,sep=",")
+wrank<-c[,2:7]
+obj1 <- xyplot((wrank[,5]) ~ wrank[,3], type = "l",ylab="slope coefficient",xlab="word bin size",main="Sherlock Holmes Corpus (en)",ylim=c(-0.6,-0.1)) # en
+obj2 <- xyplot(wrank[,6] ~ wrank[,3], type = c("l"),ylab="t-Student test p-value",pch=4)
+objAR<-doubleYScale(obj1, obj2, add.ylab2 = TRUE) # en
+
+
+pdf("slopeSH.pdf")
+plot(objAR)
+dev.off()
+
+
+
+
+###################################################
+#                                 ##
+#                               #######
+#                             #########
+#                        ##############
+#                            #########
+#                                   ##########
+#                             ########
+#                    ##     ##  ######
+#                 ######    ########
+#                   ###      ###########
+#                                   #############
+#                                   ##############
+######################################################
