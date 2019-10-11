@@ -1,0 +1,2755 @@
+Lemma	Senses	Freq
+water glass	1	1
+plumage	1	1
+splash	1	1
+in this	1	1
+drag	1	1
+excellent	1	4
+disclosure	1	1
+pit	1	1
+first	8	24
+cause of death	1	2
+wrap	1	1
+difficulty	3	7
+amazing	1	1
+dangerous	2	6
+stay	2	5
+influence	1	1
+people	2	5
+unexplained	1	1
+chemical	1	3
+as if	1	3
+tool-house	1	3
+fist	1	1
+confess	1	6
+edge	2	4
+distorted	1	1
+seven	1	1
+haggard	1	3
+g	1	1
+short	3	12
+threat	1	1
+a couple of	1	1
+boarding-house	1	1
+wash out	1	1
+youth	1	1
+nearly	1	3
+page	1	1
+mass	1	1
+handle	2	2
+brandy	1	1
+sad	1	1
+daresay	1	3
+ruthless	1	1
+annoyance	1	1
+left-hand	1	2
+get out	3	5
+shade	1	1
+cock	2	2
+tension	1	1
+pure	1	2
+brain	2	2
+board	1	3
+indirectly	1	2
+terrible	3	10
+strain	2	2
+point of view	1	2
+violet	1	1
+possibly	2	5
+poison	1	4
+last year	1	2
+sleeve	1	1
+rat	1	1
+conundrum	1	1
+manifold	1	1
+pat	1	1
+imprisonment	1	1
+chronicle	1	1
+hideous	1	1
+indiscreetly	1	1
+slip of paper	1	2
+suddenly	2	13
+sing	1	1
+different	1	1
+procession	1	1
+live	2	8
+article	1	1
+technical	1	1
+solve	1	2
+home	3	3
+accumulate	1	1
+astonish	1	1
+strike	7	11
+furniture	1	1
+constable	1	2
+pod	1	1
+definite	1	1
+heel	2	2
+woman	2	14
+mile	1	3
+add	1	1
+else	1	4
+reproduce	1	1
+horrid	1	1
+turn out	1	1
+deeply	1	2
+scream	2	2
+Stoke Moran	1	7
+Holmes	1	74
+yesterday	1	1
+knee	1	2
+gipsy	2	7
+land	2	2
+cast	1	1
+in truth	1	1
+brown	2	3
+mind	2	4
+motive	1	1
+spread out	1	1
+lock up	1	1
+despondent	1	1
+in	1	3
+shoe	1	1
+office	1	1
+best	1	1
+coroner	1	4
+Mr.	1	1
+work	4	9
+gale	1	2
+20	2	2
+dash	1	1
+practical joker	1	1
+communication	1	2
+perplexity	1	1
+honest	1	1
+doorway	1	1
+their	1	18
+heat	1	1
+chimney	1	3
+where	1	9
+call for	1	1
+expire	1	1
+pedestalled	1	1
+hunting-crop	1	2
+a few	1	13
+directly	1	1
+in that	1	1
+perfect	1	1
+fall back	1	1
+corner	3	6
+return	3	13
+narrow	1	3
+water	1	1
+trap	2	5
+undertake	1	1
+trace	2	4
+glide	1	1
+lock	3	5
+sash	1	2
+place	5	9
+seriously	2	2
+die	2	13
+reader	1	1
+quick	2	3
+lot	1	1
+lap	1	2
+creature	2	5
+Finally	2	3
+answer for	1	1
+prefer	2	2
+over	4	8
+twinkle	2	2
+curl	2	2
+12	1	1
+manner	2	5
+vacant	1	1
+riser	1	1
+superior	1	1
+continue	3	5
+afternoon	1	4
+dazed	1	1
+pellet	1	1
+county	2	7
+ha	1	2
+opening	1	3
+vigil	1	1
+pend	1	1
+pretty	1	2
+commonplace	1	1
+chapter	1	3
+discuss	1	1
+sit down	1	1
+avoid	1	2
+consist	1	1
+fully	1	1
+memory	1	1
+prop	1	1
+forest	1	1
+metal	2	3
+fault	1	1
+get into	1	1
+goodness	1	1
+clap	2	2
+deduction	1	1
+flee	1	1
+curiosity	1	2
+sum of money	1	1
+flower-bed	1	1
+slope	1	1
+ray	1	1
+scruple	1	1
+snap	1	1
+them	1	18
+beg	1	3
+medical aid	1	1
+reward	3	4
+slip off	1	1
+prepare	1	1
+boom out	1	1
+bite	2	2
+year	1	17
+great	4	13
+knife	1	1
+finger	1	4
+englishman	1	2
+meet	3	8
+real	1	1
+how	1	26
+night-dress	1	1
+tooth-brush	1	1
+exhaust	2	3
+narrowly	1	1
+secure	1	2
+centre	1	3
+predominate	1	1
+limb	1	2
+go out	2	3
+lead	6	8
+entirely	2	7
+visit	3	6
+hat	1	2
+no matter	1	1
+get over	1	1
+feeble	1	1
+river	1	1
+wide	1	1
+tap	2	2
+writer	1	1
+run	5	11
+practice	1	2
+vague	2	2
+deep-set	1	2
+recoil	1	1
+heavy	3	4
+attention	2	8
+action	2	4
+lip	1	2
+grief	1	1
+person	1	6
+in time	1	4
+easy	2	6
+match-box	1	1
+swear	2	2
+frighten	1	3
+thinly	1	1
+get  on one's nerves	1	1
+daylight	1	1
+wedding	2	3
+pittance	1	1
+pet	1	2
+personally	1	1
+no more	1	1
+approach	3	3
+master	1	3
+somewhat	1	1
+satisfaction	1	2
+leatherhead	1	4
+to-night	1	3
+rope	1	9
+pauper	1	1
+jail	1	1
+owe	1	2
+roof	1	2
+pass away	1	1
+tassel	1	1
+serious	2	6
+detective	2	2
+carriage	1	1
+immediate	2	2
+metallic	1	3
+break off	1	1
+rich man	1	2
+remedy	1	1
+bed	2	25
+landscape	1	1
+blank	1	1
+wire	2	3
+chalk	2	5
+certainly	1	11
+come with	1	3
+confession	1	1
+blotched	1	1
+invitation	1	1
+advice	1	5
+say	7	122
+audience	1	1
+watch	1	2
+each	1	12
+precede	1	1
+slow	1	1
+lace	1	1
+dressing-gown	1	6
+many	1	7
+secret	2	5
+pistol	1	6
+decoy	1	1
+stationmaster	1	1
+process	1	1
+make up	1	2
+r	1	2
+certainty	2	2
+apply	1	1
+thicken	1	1
+upper	1	1
+late	3	4
+will	1	1
+neighbour	1	1
+original	1	1
+seeing	1	1
+enormous	1	1
+intensify	1	1
+complete	4	4
+seat	5	8
+reconsider	1	1
+human	1	1
+landlord	1	1
+weight	1	2
+method	1	1
+idea	2	6
+calm	1	1
+instant	2	8
+propose	1	3
+eventually	1	1
+mud	1	2
+obviously	1	2
+two	1	5
+9	1	1
+How ever	1	1
+conceive	1	1
+ground	3	6
+plainly	1	1
+frame	3	3
+soothing	1	2
+speak	3	17
+one time	1	1
+masculine	1	1
+startle	1	1
+so far	1	2
+crook	1	2
+upward	1	1
+north	1	1
+enough	3	14
+singular	1	6
+house	2	16
+good fortune	1	1
+preponderance	1	1
+scattered	1	1
+strange	1	12
+dance	2	16
+unlikely	1	1
+take back	1	1
+draw out	1	1
+necessarily	1	1
+bachelor	1	1
+groove	1	1
+dreadful	1	5
+by chance	1	1
+painless	1	1
+experience	1	1
+of course	1	5
+reconstruct	1	1
+recognize	1	1
+forward	4	8
+easily	1	2
+pillow	1	1
+morose	1	1
+utmost	1	3
+panelled	1	1
+field	2	2
+do	6	50
+abandon	2	2
+persuasion	1	1
+habit	1	2
+wash	1	1
+sherlock holmes	1	11
+half-pay	1	1
+consideration	1	1
+hire	1	1
+brisk	1	1
+hospitality	1	1
+alteration	1	1
+scrawl	2	5
+useful	1	1
+moment	3	18
+cartridge	1	3
+annoy	1	1
+rub	1	3
+Watson	1	23
+regency	1	1
+countryside	1	1
+policeman	1	2
+firmly	2	2
+homely	1	1
+everything	1	4
+parish	1	2
+gray-headed	1	1
+husband	1	10
+up to	1	1
+halloa	1	1
+architect	1	1
+equally	1	1
+lecture	1	1
+instantly	2	4
+forget	2	6
+capital	3	3
+violent	1	3
+police-court	1	1
+tend	1	2
+dark-lantern	1	2
+custom	1	2
+major	1	1
+black	1	9
+build	1	1
+twelve	1	1
+good	10	17
+existence	1	1
+way	7	14
+full	4	7
+indulge	1	1
+objection	2	3
+married	1	1
+lie	4	6
+club	1	1
+necessary	1	6
+in store	1	1
+loathsome	1	1
+pass as	1	1
+conduct	1	1
+anywhere	1	1
+take	15	34
+happy	2	3
+while away	1	1
+jacket	1	1
+tighten	1	1
+occasional	2	3
+toss	2	3
+thing	5	9
+frock-coat	1	1
+take into one's confidence	1	1
+surprise	1	3
+to that effect	1	1
+oblige	2	3
+tug	1	1
+go wrong	1	1
+village	2	6
+lucky	1	1
+familiar	2	2
+no longer	1	1
+tragedy	1	3
+get the better of	1	1
+exposure	1	1
+arouse	1	1
+take over	1	1
+combination	2	3
+yours	1	1
+ejector	1	1
+dissolute	1	1
+pull at	1	1
+whipcord	1	2
+explanation	1	1
+analyze	1	1
+hate	1	1
+pity	2	2
+rate	1	1
+total	1	1
+mansion	1	1
+brew	1	1
+lean back	1	3
+rear	1	1
+name	3	14
+noble	1	1
+summon	1	1
+hair	1	4
+lock in	1	2
+gaze	1	3
+catlike	1	1
+carefully	1	5
+block	3	4
+incredible	1	1
+guilt	1	1
+missing	1	2
+expression	1	2
+wise	1	1
+retort	1	1
+precise	1	2
+family	3	13
+scoundrel	1	1
+echo	1	1
+to that	1	1
+smell	3	8
+steady	1	1
+some	7	56
+which	2	31
+your	3	70
+dangle	1	1
+drown	1	1
+ajar	1	1
+quest	1	2
+cat	1	3
+hunt	2	2
+stranger	1	2
+come home	1	1
+drive out	1	1
+surrounding	1	1
+notebook	1	3
+dismay	2	2
+knock out	1	1
+mister	1	1
+prosperity	1	1
+what	2	54
+solution	1	1
+skulk	1	1
+puff	1	1
+star	1	1
+crocodile-skin	1	1
+forth	1	1
+nuisance	1	1
+responsible for	1	2
+sinner	1	6
+in addition	1	1
+situation	2	2
+themselves	1	1
+sheet	2	4
+in practice	1	1
+injury	2	2
+represent	2	3
+pretence	1	1
+conclusion	4	6
+slip	4	6
+better	2	3
+merit	1	1
+spotted	1	1
+quickly	1	1
+maiden	1	1
+take out	1	1
+creep up	1	1
+comparatively	1	1
+art	1	1
+right	6	10
+plan	1	2
+white	2	6
+give way	1	1
+sign	3	5
+delight	1	1
+extinguish	1	1
+acre	1	2
+impatience	1	1
+soon	2	5
+pitch dark	1	1
+costume	1	1
+news	1	1
+dusk	1	1
+quiet	1	3
+jet	1	1
+random	1	1
+down	4	14
+panel	2	3
+used to	1	1
+fall	4	7
+unseen	1	1
+up	6	6
+timber	2	2
+clock	1	2
+never again	1	1
+promise	3	9
+discovery	2	2
+faculty	1	1
+care for	1	1
+pipe	1	1
+reverse	1	1
+stain	2	2
+hinge	1	2
+as	2	41
+common	2	4
+daytime	1	1
+premises	1	1
+british	1	1
+heaven	3	10
+old	3	25
+between	1	11
+victim	1	2
+judge	1	1
+voice	2	6
+early	3	7
+week	2	8
+sit	2	18
+furrow	1	1
+relative	2	2
+serpent	1	1
+extent	1	2
+dream	1	1
+obvious	1	1
+noiselessly	1	1
+tennis	1	1
+explosion	2	2
+side door	1	1
+silver	2	3
+consult	1	1
+puncture	1	1
+convulse	1	1
+misery	1	1
+just about	1	1
+wish	3	11
+we	1	129
+yell	2	2
+stare	3	5
+composure	1	1
+express	1	1
+also	1	12
+by inches	1	1
+frog	1	1
+bizarre	1	1
+sever	1	1
+glow	1	1
+as yet	1	1
+climb up	1	1
+get	8	15
+headgear	1	1
+beneath	1	1
+gaiter	1	1
+inside	4	7
+hullo	1	1
+central	1	4
+away	5	12
+n't	1	17
+otherwise	1	1
+clever	1	3
+close quarters	1	1
+clear	6	11
+look upon	1	2
+at less	1	1
+small	5	18
+request	2	2
+fireplace	1	2
+sure enough	1	1
+anxious	2	3
+berkshire	1	1
+disgraceful	1	1
+character	2	6
+lose	2	4
+repair	3	4
+trumpet	1	1
+any	2	34
+had best	1	2
+gather	3	4
+impression	1	1
+depart	1	1
+catch a glimpse	1	1
+entertaining	1	1
+care	4	6
+information	1	1
+toe	1	1
+dull	1	1
+fragrance	1	2
+straighten	1	1
+wealth	1	1
+sight	3	3
+peculiar	2	4
+uniform	1	1
+correspondent	1	1
+april	1	1
+stride	1	2
+anything	1	6
+good-morning	1	1
+consultation	1	1
+moonlight	1	2
+recklessly	1	1
+p	1	1
+cruelly	1	1
+brace	1	1
+considerably	1	1
+profession	3	3
+ten	1	1
+to it	1	1
+candle	1	3
+apartment	1	2
+recapitulate	1	1
+companion	2	10
+saw	2	7
+trouble	4	7
+after all	1	1
+cling	1	1
+s	1	2
+prick up	1	1
+utterly	1	3
+realization	1	1
+writing-table	1	1
+as good as one's word	1	2
+climb	3	10
+clang	2	3
+painful	1	1
+iron	1	6
+intricate	1	1
+bell	2	7
+sombre	1	1
+fair	1	1
+breath	1	1
+good-afternoon	1	1
+event	1	6
+massive	1	2
+furiously	2	2
+by the way	1	1
+deftly	1	1
+appearance	1	1
+window	4	35
+bring about	1	2
+become	3	11
+attack	2	3
+cook	1	2
+zest	1	1
+completely	1	1
+all	4	57
+once again	1	1
+benefit	1	1
+thief	1	3
+describe	1	2
+reasonable	1	1
+fifty	1	1
+business	7	11
+surely	1	1
+assistance	1	1
+keep	3	4
+data	1	2
+spare	1	2
+clad	1	3
+crystal clear	1	1
+warn	1	1
+arm	2	5
+interesting	1	8
+south african	1	2
+England	1	1
+imagine	2	7
+brilliant	1	1
+magnificent	1	1
+float	1	1
+circumstance	1	2
+amazement	1	2
+opal	1	1
+ourselves	1	2
+to begin with	1	1
+bird	1	3
+presence	4	8
+chuckle	1	2
+gently	2	2
+hurried	1	1
+moving	1	1
+at least	1	4
+neither	1	2
+remember	1	8
+tear	1	1
+ticket	1	1
+fresh	4	13
+him	1	47
+flesh	1	1
+fast	1	1
+key	2	3
+journey	1	2
+thrust	2	2
+jade	1	1
+distinguish	1	2
+travel	2	3
+all the time	1	1
+safe	2	7
+come to	2	3
+on	1	1
+too	2	13
+far	5	13
+copper	1	1
+badly	2	2
+occasionally	1	1
+excited	1	1
+coast	1	1
+less	3	4
+command	2	2
+wind	1	2
+sum	1	2
+armchair	1	2
+anyhow	1	1
+yes	2	20
+snarl	1	1
+pull down	1	1
+near	2	4
+warmly	1	2
+contrast	1	1
+collection	1	1
+direct	2	2
+refuse	2	3
+blandly	1	1
+appeal	2	6
+submit	2	2
+young lady	1	3
+yet	4	20
+schemer	1	1
+whip	1	2
+yourselves	1	1
+just	6	22
+savagely	1	1
+manacle	1	1
+together	4	6
+destination	1	1
+vice	1	1
+aperture	1	1
+reverie	1	1
+busybody	1	1
+belong	1	1
+hereditary	1	1
+draw up	1	1
+top-knot	1	1
+lighten	1	1
+herald	1	1
+rapidity	1	1
+lodger	1	1
+income	1	3
+fright	1	1
+wonderful	1	1
+marriage	2	7
+wound	2	4
+desire	2	3
+stroke	1	1
+o	1	3
+mere	2	3
+deep	5	10
+associate	5	5
+baboon	1	4
+cup	1	1
+undo	1	2
+pencil	1	1
+distant	1	1
+honour	2	3
+adventure	1	2
+respect	2	2
+wayside	1	1
+bottom	3	3
+disposition	1	2
+great care	1	1
+argument	1	1
+tip	1	1
+she	1	122
+mind you	1	1
+on the other hand	1	1
+stock	1	1
+sun	1	2
+only	7	41
+succeed	1	1
+white-haired	1	1
+lay	5	11
+temper	1	3
+hers	1	1
+portion	2	2
+aggressive	1	1
+act	2	3
+at first sight	1	1
+rethink	1	1
+stable-boy	1	3
+about	4	12
+able	1	9
+effort	1	2
+second	3	6
+hesitation	1	1
+point	7	18
+give	15	23
+m	1	2
+fantastic	1	1
+public	1	1
+adjective	1	1
+run down	1	1
+cluster	1	1
+wall	1	10
+grab	1	2
+dressing-table	1	1
+visible	2	3
+laugh	2	5
+convey	2	5
+last	3	18
+laurel	1	1
+exchange	2	2
+pop	1	1
+dear	3	9
+disagreeable	1	1
+kind	2	6
+in front	1	9
+time	7	40
+account	2	2
+expect	2	6
+stile	1	2
+inclination	1	1
+instinct	1	1
+housemaid	1	1
+heart	3	6
+fill in	1	1
+t	1	3
+low	4	8
+right hand	1	1
+reach	1	8
+chat	1	1
+guide	1	2
+give rise	1	1
+butler	1	1
+injure	1	1
+make up one's mind	1	2
+india	1	3
+flash	1	1
+shield	1	1
+behind	1	3
+selfish	1	1
+shot	2	6
+last month	1	1
+much	4	8
+animal	1	2
+tie	1	2
+he	1	254
+fate	1	3
+natural	1	1
+unclasping	1	1
+want	3	11
+highly	1	1
+come	9	59
+dressed	1	2
+figure	4	11
+suit	3	3
+strong	2	7
+fare	1	1
+mine	1	3
+depress	1	1
+lay out	1	1
+and then	1	13
+assure	2	2
+as well	1	2
+vain	1	2
+i	2	510
+interview	1	2
+11	1	1
+table	1	15
+6	2	3
+who	1	7
+pass	5	11
+medical	1	2
+project	1	1
+produce	2	3
+bind	2	2
+burst	2	2
+remain	4	7
+childish	1	3
+adder	1	1
+simple	4	8
+official	1	2
+come up	1	2
+face to face	1	1
+milk	1	4
+frill	1	1
+drive	9	14
+end	8	14
+discolour	1	1
+spider	1	13
+statement	2	3
+erroneous	1	1
+calculation	2	2
+stump	1	2
+break in	1	1
+fool	1	1
+delay	1	1
+dawdle	1	1
+window-sill	1	1
+for a while	1	1
+carry out	1	1
+vehicle	1	1
+fine	1	1
+turn up	1	1
+examination	1	3
+waste	1	1
+around	1	2
+square-towered	1	1
+wake	1	1
+rattle	1	1
+ignorant	1	1
+malodorous	1	1
+mortgage	1	1
+sound	6	11
+nice	1	2
+drill	1	1
+intuition	1	1
+depend upon	1	3
+pleasure	3	3
+ask	2	21
+encamp	1	1
+unlocked	1	1
+thoroughly	1	1
+barrel	1	1
+splendidly	1	1
+counterpane	1	1
+meretricious	1	1
+gossip	1	1
+calcutta	1	1
+off	2	3
+mysterious	1	1
+predecessor	1	1
+divide	1	1
+break up	1	1
+seem	3	22
+nettle	1	1
+ventilate	1	1
+responsible	1	2
+more	4	20
+dispatch	1	1
+loop	1	2
+come over	1	1
+slither	1	1
+kill	2	2
+lash	2	6
+builder	1	1
+inscribe	1	1
+fortune	1	1
+bullet	1	8
+shiver	1	2
+gape	1	2
+take away	1	1
+inner	1	2
+throw off	1	1
+chill	1	1
+choke	1	2
+research	1	1
+side	6	20
+bring	4	8
+break	5	5
+agitation	2	2
+here	4	36
+scratch	1	1
+drop	3	3
+crack	1	1
+certain	2	2
+friend	3	21
+client	1	3
+surgeon	1	3
+happiness	1	1
+stepdaughter	1	2
+fierce	1	1
+instantaneous	1	1
+recollect	1	1
+red	1	2
+particular	2	2
+mad	3	3
+theory	2	2
+finish	1	1
+both	1	13
+alphabet	1	1
+light	8	28
+son	1	2
+hardly	2	3
+broad	1	3
+grip	2	2
+throw	6	19
+inexorable	1	1
+bank	1	1
+connect	1	1
+lank	1	1
+various	2	2
+speedily	1	1
+unfortunate	2	2
+precisely	1	1
+dreadfully	1	1
+break one's heart	1	1
+future	1	1
+pair	1	2
+correct	2	5
+vagabond	1	1
+inquiry	3	5
+united	1	1
+assert	1	1
+own	1	20
+dead	2	9
+condemn	1	1
+come to light	1	1
+tree	1	5
+horror	2	4
+power	1	1
+florid	1	1
+tuesday	1	1
+paper	4	22
+scare	2	3
+unlike	1	1
+things	1	1
+honourable	1	1
+lurk	1	1
+turn off	1	1
+snakish	1	1
+attend	1	1
+1000	1	3
+opposition	1	1
+peculiarly	1	1
+gambler	1	1
+catch	5	6
+prisoner	1	3
+police	1	2
+grotesque	1	2
+upwards	1	2
+hot	1	1
+poor	2	5
+pray	2	6
+shrubbery	1	1
+urgently	1	1
+send for	1	3
+hurriedly	1	1
+opposite	1	1
+unsullied	1	1
+top-hat	1	1
+yellow	1	3
+crackle	1	1
+brazen	1	1
+teach	1	1
+cigar	1	2
+peer	1	1
+Certainly	1	1
+when	3	57
+come down	1	1
+cave in	1	1
+wait	4	11
+confound	1	1
+time-table	1	1
+shawl	1	1
+clothes	1	1
+big cat	1	1
+blue	2	3
+squire	1	5
+term	2	3
+take aback	1	1
+backward and forward	1	1
+hiding	1	1
+amusement	1	1
+comic	1	1
+swamp	1	1
+clump	1	1
+avenue	1	1
+enter	1	9
+claim	2	3
+which is to say	1	1
+hampshire	1	1
+murderer	1	1
+crocus	1	1
+account for	2	2
+comrade	1	1
+sore	1	1
+grope	1	1
+dart	1	1
+circumstances	1	1
+feeling	1	1
+fury	1	1
+profoundly	1	1
+take notice	1	1
+punishment	1	2
+accusation	1	1
+pull	2	4
+l	1	2
+preserve	2	2
+permeate	1	2
+offer	2	3
+make sense	1	1
+christmas	1	1
+boom	1	1
+excitement	1	1
+see	14	71
+shadow	1	1
+treat	1	1
+within	1	1
+message	2	13
+wrought	1	1
+oak	1	2
+ordinary	2	2
+path	2	3
+cottage	1	1
+forehead	1	1
+get in	1	1
+lately	1	1
+earnestly	1	2
+as it is	1	1
+other	1	14
+invest	1	3
+walk in	1	1
+shock	2	2
+have got	1	2
+overjoyed	1	1
+lens	1	3
+precaution	1	1
+more than	1	9
+not	1	104
+copy	3	8
+unfold	1	1
+listen	2	4
+momentary	1	1
+hastily	1	1
+country	2	2
+cease	1	1
+thousand	1	2
+chicago	1	3
+pocket	1	3
+symbol	1	6
+withdraw	1	1
+its	2	16
+center	1	2
+evidence	3	7
+apparition	1	1
+clearly	2	4
+shrug	1	1
+death	4	16
+and so	1	2
+wicked	1	1
+exclamation	1	2
+billiard	1	2
+pierce	1	1
+at first	1	1
+lady	2	25
+lined	1	1
+right-hand	1	1
+hand-bag	1	1
+impending	1	1
+inn	1	4
+disappoint	1	1
+spot	2	2
+girl	1	4
+handbag	1	1
+e	1	7
+injured	1	2
+corridor	1	6
+whiff	1	1
+metal bar	1	1
+suspicion	3	5
+fond	1	1
+cross	4	5
+training	1	1
+must	2	9
+pale	1	1
+metropolis	1	1
+bush	1	1
+once and for all	1	1
+remarkable	2	2
+absence	1	1
+hole	2	2
+carry	2	2
+gable	1	2
+look for	1	2
+bury	2	2
+his	3	197
+across	2	7
+be full	1	1
+cloud	1	1
+unrepaired	1	1
+reside	1	2
+endure	1	1
+himself	1	14
+worry	1	1
+convulsion	1	1
+aristocratic	1	1
+ferocious	1	1
+idiot	1	1
+numerical	1	1
+damn	1	1
+commend	1	1
+evening	1	1
+rumour	1	1
+new	4	6
+falling	1	1
+darkness	3	8
+disappointed	1	1
+cablegram	1	1
+knock against	1	1
+2	5	33
+open-eyed	1	1
+lamp	1	7
+single	3	4
+leave	11	24
+pebble	1	1
+incapable	1	1
+in some way	1	1
+gold field	1	1
+madam	1	4
+hypothesis	1	1
+kitchen	1	1
+flow	1	1
+dinner	1	1
+write	3	10
+deep water	1	1
+stab	1	1
+shake hands	1	2
+lawn	1	11
+spatter	1	1
+scare off	1	1
+reproduction	1	1
+beyond	1	1
+trim	2	2
+whiten	1	1
+brush	1	1
+operation	1	1
+condition	2	3
+close	4	9
+gun	1	1
+remark	3	7
+hurt	3	5
+rouse	3	3
+men	1	1
+plunge	1	2
+wrong	2	2
+winter	1	1
+pearl-white	1	3
+wood	1	1
+headache	1	1
+possible	1	3
+saddle	1	1
+independently	1	1
+lad	1	5
+night	3	25
+usual	1	1
+avenge	1	1
+drive away	1	1
+dapper	1	1
+arrest	1	1
+pull off	1	1
+squat	2	3
+motion	1	1
+rescue	1	1
+author	1	1
+cling to	1	1
+telegraph	1	1
+thick	1	2
+Panama hat	1	1
+claw	1	1
+wrist	1	4
+hit	1	1
+duty	1	1
+number	1	3
+under	2	4
+reply	2	5
+part	1	1
+cushion	1	1
+occupy	2	2
+minutely	1	1
+solid	2	2
+separate	1	2
+atonement	1	1
+v	1	1
+backward	1	1
+green	1	3
+again	1	13
+rapid	2	2
+wilton	1	1
+move into	1	1
+in case	1	2
+chest	1	1
+turkish	1	1
+believe	2	8
+fortunate	1	1
+loudly	1	1
+hard	4	5
+delirium	1	1
+widow	1	2
+firing	1	1
+pitiable	1	1
+daughter	1	1
+burst forth	1	1
+spurt	1	1
+grass	1	2
+tent	1	1
+system	1	1
+before	2	20
+monograph	1	1
+view	1	2
+unlock	1	1
+sheet of paper	1	4
+systematic	1	1
+Sherlock Holmes	1	3
+retire	2	2
+determine	3	3
+honoured	1	1
+rank	1	1
+pleasant	1	1
+bridge	1	1
+masterful	1	1
+anger	1	3
+penetrate	1	1
+curve	3	3
+wood-work	1	1
+indian	1	2
+drawn	1	1
+accustom	1	1
+left	3	7
+in vain	1	2
+last night	1	3
+whole	1	7
+success	1	2
+bequeath	1	1
+wooden	1	6
+straighten out	1	1
+advise	1	1
+breast	1	2
+raise	4	6
+thread	2	14
+grove	2	2
+ear	1	4
+tragic	1	2
+read	3	6
+three-forty	1	1
+brick	1	1
+town	1	5
+hint	1	1
+unable	1	1
+meddle	1	1
+little	7	28
+by and by	1	1
+coax	1	1
+fog	1	1
+whitewash	1	1
+to-day	2	4
+railway	1	1
+hall	1	1
+footmark	1	1
+bewilderment	1	1
+immense	1	1
+whatever	2	5
+heartily	1	1
+worm-eaten	1	1
+swiftly	1	5
+alarm	2	2
+sundial	1	4
+driver	1	4
+twice	1	2
+later	2	12
+june	1	1
+brawl	1	1
+blanch	1	1
+scaffolding	1	1
+lichen	1	1
+3	4	14
+dancing	1	1
+fortunately	1	1
+empty	1	1
+come in	1	2
+miss	3	20
+floor	2	11
+poker	1	4
+morning	2	23
+interrupt	1	1
+those	2	10
+inexpressible	1	1
+dot	1	1
+back	5	20
+desk	1	1
+antics	1	1
+evil	2	2
+whom	1	1
+spike	1	4
+flower	1	5
+split	1	1
+forerunner	1	1
+absorb	1	1
+try	2	11
+household	2	2
+shoot	5	9
+servitude	1	1
+middle	3	5
+option	1	1
+understand	3	4
+knot	1	1
+throat	1	1
+truth	2	3
+nose	1	2
+meaning	2	3
+enable	1	1
+take the plunge	1	1
+feature	2	3
+decided	1	1
+bramble	1	1
+hand	6	39
+gutter	1	1
+good-bye	1	1
+melancholy	1	1
+brave	1	1
+anyone	1	5
+show	6	17
+bad	4	5
+inspector	3	21
+go	8	32
+look	5	20
+crab	1	1
+rigid	1	1
+headfirst	1	1
+breadth	1	2
+main	1	2
+acquirement	1	1
+tired	1	1
+refer	1	1
+league	1	1
+shake	5	6
+twisted	1	1
+save	2	5
+bolt	1	1
+glory	1	1
+rather	3	5
+be	10	465
+positive	1	1
+distance	1	2
+insolence	1	1
+in the way	1	1
+movement	1	1
+along	2	2
+high	1	7
+queer	1	3
+receive	2	2
+outset	1	1
+commit	1	1
+soothingly	1	1
+writing	1	3
+asleep	2	2
+bar	3	5
+alert	1	1
+code	1	1
+through	1	4
+case	5	22
+groom	1	1
+colleague	1	2
+question	3	5
+wrinkle	1	1
+considerable	1	4
+once	3	12
+answer	5	17
+adapt	1	1
+force	4	4
+suppose	2	6
+my	1	168
+protrude	1	1
+indeed	2	9
+brownish	1	1
+press	1	2
+expense	1	1
+rich	1	3
+room	1	50
+third	1	5
+observe	4	8
+already	1	11
+audible	1	1
+need	4	8
+revolver	1	7
+thrill	1	1
+word	4	24
+loud	2	5
+termination	1	1
+night-clothes	1	1
+evidently	1	3
+hooked	1	1
+writhe	1	3
+satisfactory	1	1
+joy	1	2
+body	1	3
+free	1	1
+nocturnal	1	1
+that	2	95
+then	3	60
+link	2	2
+pledge	2	2
+parsonage	1	1
+rise	2	5
+below	2	6
+track	2	2
+earnest	1	1
+come out	1	1
+criminal	2	3
+eye	2	31
+appear	4	10
+absolute	2	2
+speckle	1	1
+boy	2	3
+seared	1	1
+old man	1	3
+month	2	7
+set	3	3
+neck	1	2
+investigation	2	9
+consequence	1	1
+just in time	1	1
+find	8	24
+presume	1	2
+swarthy	1	1
+Suddenly	1	1
+basis	1	2
+consciousness	1	3
+comely	1	1
+regain	1	1
+7	2	3
+collect	1	1
+nervous	1	4
+hubbub	1	1
+end up	1	1
+buddha	1	8
+conceal	1	1
+call	6	7
+despair	1	3
+continuously	1	1
+position	4	7
+deduce	2	2
+like	2	18
+large number	1	1
+wasteful	1	1
+thin	2	6
+notorious	1	1
+4	2	8
+all over	2	3
+result	3	5
+well-known	1	1
+ready	1	5
+please	1	1
+think over	1	1
+terrified	1	2
+object	2	4
+sink	4	9
+address	3	4
+probably	1	4
+no one	1	5
+wretched	1	1
+exact	2	3
+knock up	1	3
+accident	1	1
+palm	1	2
+o'clock	1	5
+mother	1	5
+take place	1	2
+pause	1	1
+graphic	1	1
+cheerful	1	1
+horribly	1	1
+lookout	1	1
+out	4	4
+crime	1	5
+mistress	1	1
+overlook	1	1
+inscription	1	2
+population	1	1
+head	2	13
+blink	1	1
+deadly	2	3
+cylinder	1	1
+astonishment	1	2
+chain	1	2
+lie in wait	1	1
+speckled	1	4
+this	2	118
+trip	1	1
+service	1	1
+invent	1	3
+deceive	1	1
+sometimes	1	5
+mountain	1	4
+letter	2	23
+quietly	3	4
+silence	2	6
+past	4	7
+agricultural	1	2
+border	1	2
+fairly	1	1
+flannel	1	1
+crumple	1	1
+true	1	2
+find out	1	2
+degree	1	1
+handsome	1	1
+shelf	1	1
+admiration	1	1
+hold	4	8
+hansom	1	1
+doubt	4	8
+signal	2	3
+villager	1	1
+criminal law	1	1
+hasp	1	1
+instruction	1	1
+insufficient	1	1
+likely	2	6
+aware	1	4
+smile	2	6
+tiara	1	1
+above	1	2
+for the first time	1	1
+belief	1	1
+silently	1	1
+rush	3	7
+open	7	23
+gleam	4	4
+plain	2	2
+ago	2	11
+accompany	1	1
+lonely	2	4
+turn	11	19
+h	1	2
+clasp	1	1
+thank you	1	1
+there	3	46
+arrive	1	1
+farm	1	3
+glove	1	1
+bell-pull	1	3
+next	2	7
+cord	1	1
+beautiful	1	1
+now	6	49
+carpet	1	1
+mr.	1	33
+ineffable	1	2
+take in	2	2
+always	3	13
+venture	1	1
+material	1	2
+production	1	2
+vanish	1	1
+have	11	85
+twin	1	2
+opinion	2	2
+obtain	1	1
+mantelpiece	1	1
+sit up	1	1
+square	1	1
+stretch	1	2
+beam	1	1
+ground floor	1	1
+day	6	17
+arbitrary	1	1
+grim	1	1
+issue	1	1
+puzzle	1	1
+alone	3	4
+settee	1	1
+cane	1	4
+till	1	2
+up and down	2	5
+convulsive	1	1
+decide	2	3
+turn to	1	4
+nervously	1	1
+out of the way	1	1
+extend	2	2
+wander	2	4
+grey	2	5
+series	1	2
+nerve	1	1
+scent	1	1
+fit	4	4
+resemblance	1	1
+stepfather	1	12
+sister	1	23
+worth	1	1
+set down	1	1
+dense	1	1
+stool	1	1
+effect	3	3
+cunning	2	2
+adjoin	1	1
+profitable	1	1
+advance	1	1
+possession	1	2
+lovely	1	1
+push	1	1
+peace	1	2
+golden	1	2
+draw	9	16
+wild	3	3
+confine	1	1
+skill	1	1
+detail	2	3
+to and fro	1	1
+staple	1	1
+promptly	1	1
+holmes	1	18
+hushed	1	1
+impassable	1	1
+besides	1	1
+logical	1	1
+uneasy	2	2
+return ticket	1	1
+quite	4	12
+bent	1	1
+scandal	1	1
+ruddy	1	1
+discharge	1	1
+excursion	1	1
+step	5	8
+itself	1	5
+reflection	1	1
+for example	1	2
+at any rate	2	2
+creep	1	2
+conceivable	1	1
+survivor	1	1
+huge	1	4
+discretion	1	1
+endeavour	1	1
+advantage	2	2
+man	3	50
+shriek	2	2
+step-daughter	1	1
+perch	1	1
+pocketbook	1	1
+allow	4	6
+drawing	1	1
+cue	1	1
+case-book	1	1
+speculation	1	1
+good sense	1	2
+steel	1	2
+gentle	4	4
+guess	1	1
+arrive at	1	1
+dress	2	3
+truthful	1	1
+in order	1	3
+take up	1	1
+bag	1	1
+they	1	37
+hedge	1	1
+cry	5	18
+tell	6	27
+crush	1	1
+england	1	8
+outside	6	8
+subtle	2	3
+jut	1	1
+several	1	7
+put off	1	1
+fold up	1	1
+Grimesby Roylott	1	8
+cut off	1	1
+order	3	5
+secrecy	1	1
+stream	1	1
+long time	1	1
+feel	3	9
+thorough	1	1
+comment	1	1
+perhaps	1	13
+box	1	1
+country-house	1	1
+30	1	2
+ill-trimmed	1	1
+conscious	1	3
+affair	1	6
+unite	1	1
+entangle	1	1
+plantation	1	3
+distinct	1	1
+drag out	1	1
+visitor	1	7
+robbery	1	1
+repeat	1	1
+chemical analysis	1	2
+god	1	3
+wear	1	1
+prolong	1	1
+epilogue	1	1
+public exposure	1	1
+dying	1	1
+fancy	3	5
+call back	1	1
+very	4	66
+in the first place	2	2
+note	5	15
+desperately	1	1
+wickedness	1	1
+penal	1	1
+privilege	1	1
+for anything	1	2
+crazy	1	1
+walk	4	12
+shaped	1	1
+I	1	1
+straight	3	4
+notice	1	3
+at one time	1	1
+first of all	1	4
+lie in	1	1
+re-marriage	1	1
+same	4	13
+beauty	1	1
+even	4	21
+attribute	1	1
+rim	1	1
+wife	1	18
+conscience	1	1
+gate	1	2
+glare	2	2
+line	4	7
+stand	5	15
+chamber	2	7
+knowledge	1	7
+stone	1	1
+crisis	1	1
+gloomy	1	1
+awaken	1	2
+sigh	1	1
+sleeper	1	2
+sweet	1	1
+freely	1	2
+association	2	3
+slipper	1	1
+length	2	2
+rest	4	5
+escort	1	1
+change	4	4
+invaluable	1	1
+report	1	1
+char	1	1
+problem	2	4
+engagement	1	1
+snake	1	3
+sir	1	11
+post	1	1
+recognise	1	1
+angry	1	1
+noose	1	1
+folks	1	1
+hope	3	5
+narrative	1	2
+groan	1	1
+noise	1	1
+crouch	1	1
+bright	2	3
+throw out	2	2
+look at	1	4
+marry	1	9
+fatal	3	4
+abreast	1	1
+go into	2	2
+front door	1	1
+practical joke	1	1
+wearing away	1	2
+shortly	3	3
+heavily	3	5
+deceased	1	1
+endless	1	1
+terror	2	6
+permission	1	3
+porticoed	1	1
+vessel	1	1
+fiercely	1	1
+control	1	1
+wear away	1	2
+gentleman	1	9
+penalty	1	1
+eagerly	1	1
+respectively	1	1
+jack-in-office	1	1
+to the full	1	1
+think of	2	2
+wheel	1	1
+development	1	1
+scene	1	1
+rack	1	1
+professional	2	6
+mark	4	8
+masonry	1	1
+none	2	8
+drunkard	1	1
+heelless	1	1
+another	2	9
+prevent	2	4
+hear	4	38
+mingle	1	1
+alas	1	1
+howl	1	1
+fang	1	1
+cause	6	11
+happen	3	9
+coming	1	1
+examine	2	13
+choice	1	1
+gang	1	1
+saucer	1	3
+company	1	1
+her	2	137
+at last	1	7
+dark	4	11
+dependent upon	1	1
+perpetrate	1	1
+trial	1	1
+splinter	1	1
+killing	1	1
+bear	2	2
+creak	1	1
+suspect	1	1
+breach	1	1
+discover	2	2
+boss	1	1
+shouting	1	1
+doctor	1	16
+few	1	17
+den	1	1
+ride	1	1
+mystery	1	4
+every night	1	3
+in darkness	1	3
+work out	2	3
+have the drop on someone	1	1
+span	1	1
+stand for	2	4
+contain	1	3
+bend	2	4
+arrangement	1	1
+frieze	1	1
+hurry	1	3
+suffer	1	2
+seldom	1	2
+swing	1	1
+native	1	1
+forefinger	1	1
+sentence	2	6
+descend	1	2
+parapet	1	1
+door	3	31
+eastern	1	1
+lean against	1	1
+encompass	1	1
+establish	2	2
+colour	1	1
+make	15	39
+sure	2	9
+sternly	1	1
+it	1	322
+climbing	1	1
+manor-house	1	1
+thoughtful	1	1
+money	2	6
+no doubt	1	5
+hieroglyphics	1	3
+cruel	1	1
+good deal	1	1
+thought	3	5
+go back	1	2
+Constabulary	1	1
+sleep	2	12
+possess	1	2
+bell-	1	1
+weary	1	3
+senseless	1	1
+really	3	6
+get to	2	3
+beard	1	1
+glance over	1	1
+pound	2	6
+me	1	118
+in a low voice	1	1
+attempt	1	1
+admire	1	1
+exactly	2	2
+intimate	2	4
+d	1	2
+country doctor	1	2
+from	1	1
+registry	1	1
+beat	2	2
+whine	1	1
+ever	3	9
+fire	6	13
+noon	1	1
+imperturbably	1	1
+cheetah	1	6
+go over	1	1
+hide	2	2
+1	3	30
+grow	1	2
+progress	1	2
+roar	1	1
+you	3	277
+ray of light	1	1
+rub out	1	1
+jut out	1	1
+very much	1	4
+construct	1	1
+world	3	3
+prank	1	1
+go to	2	8
+questioned	1	1
+trick	1	1
+element	1	1
+ah	1	7
+half a dozen	1	1
+restless	1	1
+a little	1	5
+train	2	10
+major-general	1	1
+befall	1	1
+date	1	1
+resentment	1	1
+record	3	4
+take effect	1	1
+Surely	1	1
+successive	1	1
+impress	2	2
+saxon	1	1
+difficult	1	2
+unconscious	1	1
+up here	1	1
+settle	1	1
+probable	1	3
+deed	1	2
+pick up	1	2
+fasten	3	7
+avert	2	2
+devote	2	3
+surround	2	2
+come upon	1	1
+slight	1	1
+important	2	8
+begin	3	6
+overcome	1	1
+in love	1	1
+grave	2	2
+life	4	17
+last week	1	2
+instead	1	1
+straggle	1	1
+thank	1	1
+lean	2	3
+bring up	1	1
+reputation	1	1
+unsatisfied	1	1
+perfectly	1	3
+chance	2	3
+dare	1	1
+at present	1	1
+soft	1	1
+surrey	1	3
+slowly	1	5
+importance	1	2
+father	1	1
+or so	1	1
+swift	1	1
+in fact	1	1
+hiss	1	1
+sorry	1	1
+park	2	2
+our	1	59
+particularly	1	2
+convince	1	1
+class	1	1
+inspection	1	2
+annual	1	1
+swarm	1	1
+talk	2	3
+suicide	1	1
+mixture	1	1
+subject	1	1
+sharp	1	1
+mania	1	1
+thumb	1	3
+whoever	1	1
+reparation	1	1
+fact	2	10
+mostly	1	1
+rapidly	1	5
+heir	1	1
+seize	2	3
+fold	2	2
+blow	3	3
+example	1	1
+cheerily	1	1
+ejaculation	1	1
+servant	1	6
+surface	1	1
+flag	1	3
+sharp-eyed	1	1
+go to bed	1	1
+tall	1	3
+knock	1	1
+after	2	12
+addition	2	2
+startling	1	1
+marine	1	1
+powder	1	6
+partly	1	1
+go away	1	2
+share	3	3
+still	3	7
+large	2	6
+get away	2	3
+sort	1	2
+love	3	6
+found	1	1
+errand	1	1
+approaching	1	1
+trust	2	2
+clamp	1	2
+for the moment	1	1
+conversation	1	1
+course	2	2
+know	8	43
+foot	2	8
+engage	3	4
+somehow	1	1
+a good deal	1	1
+herself	1	4
+rascal	1	2
+pride	1	1
+moustache	1	1
+bitter	1	1
+crop	1	1
+liberty	2	2
+ally	1	1
+absurdly	1	2
+fail	1	1
+affect	1	1
+farmer	1	2
+agent	1	1
+twitch	1	1
+dimly	2	2
+kindness	1	1
+dog-cart	1	4
+concern	2	3
+c	1	1
+beloved	1	1
+whisper	1	3
+suggest	2	6
+shelter	1	1
+pedestal	1	1
+at once	1	9
+faint	2	2
+midway	2	2
+bulky	1	1
+ring	2	4
+workman	1	1
+investment	1	1
+fain	1	1
+leaf	1	3
+dummy	2	3
+in return	1	1
+present	5	6
+product	1	1
+fleshless	1	1
+spring	4	9
+forbid	1	1
+task	2	2
+such as	1	1
+answerable	1	1
+blaze	1	1
+amiable	1	1
+bribe	1	1
+continually	1	1
+recover	2	4
+shout	1	1
+wing	1	7
+inference	1	2
+covered	1	1
+proud	1	1
+smoke	2	3
+turn over	1	1
+frankly	1	2
+disturb	1	2
+purpose	2	3
+band	3	14
+only when	1	1
+residence	1	1
+law	1	1
+clean-shaven	1	1
+sake	1	2
+us	1	36
+proof	2	2
+study	3	10
+immediately	1	2
+drive up	1	2
+why	3	13
+every week	1	1
+though	1	5
+consign	1	1
+learn	3	3
+reptile	1	1
+intense	1	1
+come back	2	2
+once more	1	4
+pitch black	1	1
+helpless	1	1
+acquaintance	2	2
+bedroom	1	6
+gasp	1	1
+proceed	3	4
+impossible	2	5
+except	1	1
+on end	1	1
+estate	2	3
+windowed	1	1
+spring up	1	1
+average	1	1
+old-fashioned	1	2
+therefore	2	6
+beam of light	1	1
+accept	2	3
+lane	1	1
+almost	1	6
+rush out	1	1
+hoarse	1	3
+investigate	1	2
+wherever	1	1
+loom	1	1
+distribute	1	1
+western	1	1
+court	1	1
+vicar	1	1
+previous	1	1
+inflict	1	1
+sky	1	2
+silent	2	5
+incident	1	4
+round	7	13
+attend to	1	1
+slit	1	1
+tropics	1	1
+twist	1	1
+branch	1	1
+justice	1	2
+quarrel	1	2
+sudden	1	6
+four o'clock	1	1
+loathe	1	1
+regular	1	1
+stone-work	1	1
+young	2	4
+think	7	46
+stoke moran	1	3
+depth	2	7
+sketch	2	2
+handcuff	1	2
+shoulder	1	5
+moist	1	1
+violence	2	3
+insist	1	1
+intimate thought	1	1
+provision	1	1
+contraction	1	1
+intrusion	1	1
+pay	3	4
+kindly	1	3
+inexplicable	1	1
+by no means	1	2
+aid	2	3
+unknown	2	2
+averse	1	1
+absurd	1	5
+test-tube	1	2
+inclose	1	1
+foot-path	1	1
+brow	2	4
+mutter	1	1
+chest of drawers	1	1
+american	2	8
+administration	1	1
+bird of prey	1	1
+big	1	1
+follow	10	13
+chase	1	1
+shutter	1	9
+pour	1	2
+such	3	16
+fleecy	1	1
+tightly	1	1
+ceiling	1	2
+wonder	1	1
+half	2	6
+soul	2	2
+breathe	1	1
+unravel	1	1
+hurl	1	2
+form	6	9
+trample	1	1
+child	1	5
+blossom	1	1
+turn down	1	1
+laugh at	1	1
+Mrs.	1	1
+let	3	8
+test	2	2
+rain	1	1
+inhabit	1	2
+modern	2	2
+sunlight	1	1
+security	2	2
+breakfast	2	3
+earnestness	1	1
+' 83	1	1
+local	1	2
+church	1	1
+night-bird	1	1
+chair	1	12
+hell	2	12
+clumsily	1	1
+panama hat	1	1
+pain	2	2
+road	1	2
+so	10	78
+fortnight	1	2
+crawl	1	4
+coffee	1	1
+eight	2	2
+content	2	5
+dog	2	3
+indefinite	1	1
+wax	1	1
+age	1	1
+furnish	2	2
+look back	1	1
+extremely	1	1
+use	5	19
+on that	1	1
+danger	1	6
+alight	1	1
+anticipate	1	1
+fringe	1	1
+mitigate	1	1
+hang	4	6
+one	5	67
+diamond	1	1
+mean	4	9
+absolutely	2	2
+fly	2	6
+pass through	1	6
+course of action	1	1
+merely	1	2
+undoubtedly	1	2
+passion	2	2
+stair	1	2
+brute	1	1
+occupant	1	3
+sample	1	1
+confide	1	1
+explain	1	7
+satisfy	2	3
+supply	1	1
+horse	1	1
+sway	2	2
+shut up	1	1
+never	1	19
+attach	1	1
+unapproachable	1	1
+allusion	1	5
+building	2	6
+reason	4	6
+clinch	1	1
+seed	1	1
+reveal	1	1
+bare	1	1
+story	2	5
+stroll	1	2
+do well	1	2
+tone	2	2
+run over	1	1
+odd	1	1
+get off	1	1
+garden	1	5
+introduce	1	1
+confidence	4	5
+naked	1	1
+arson	1	1
+excuse	3	3
+unhappily	1	1
+fumes	1	1
+curious	2	5
+complex	1	1
+help	3	11
+interest	3	6
+drawing-room	1	2
+depend	2	3
+hundred	1	1
+dig	1	1
+insure	1	2
+english	2	3
+station-master	1	1
+ungrateful	1	1
+picture	2	3
+irregular	1	1
+design	1	1
+nothing	2	26
+no	5	65
+devil	1	1
+ventilator	1	15
+oil	1	1
+induce	1	1
+latter	1	2
+threaten	2	5
+belong to	1	1
+fear	3	13
+every	2	21
+gloom	1	1
+murmur	1	1
+5	2	5
+all the way	1	1
+fulfil	1	1
+apparently	1	1
+finally	3	5
+hold up	1	1
+glad	2	2
+play	4	5
+aunt	1	3
+forgive	1	1
+put	5	18
+chin	1	4
+deprive	1	1
+suggestive	1	1
+jay	1	1
+ankle	1	1
+vision	1	1
+forearm	1	1
+station	1	3
+gray	1	2
+contemplate	1	1
+whence	1	1
+crash	1	1
+wisely	1	1
+elaborate	1	1
+seventy	1	1
+air	4	5
+analysis	1	1
+widespread	1	1
+trivial	1	1
+stamp	2	2
+colored	1	1
+anxiety	1	2
+even as	1	1
+bristle	1	2
+well	9	23
+folk	1	1
+professor	1	1
+mention	2	3
+cab	1	4
+allude	1	1
+hasten	1	1
+face	4	27
+wounded	1	2
+meadow	1	1
+nod	2	3
+retriever	1	1
+uncontrollable	1	1
+get down	1	2
+minute	2	9
+imprint	1	1
+afterwards	1	5
+horror-stricken	1	1
+coincidence	1	1
+misfortune	1	1
+horrible	1	4
+determined	1	1
+state	1	3
+swell	1	1
+patient	1	1
+cipher	1	1
+sinister	2	3
+london	1	5
+story-teller	1	1
+kettle	1	1
+cripple	1	1
+aback	1	1
+justify	1	1
+fill	2	4
+careful	1	1
+these	2	26
+cheek	1	1
+defray	1	1
+actually	1	2
+string	1	2
+awake	1	1
+discreet	1	1
+foolish	1	1
+blood	1	9
+stop	3	4
+go far	1	1
+west	2	2
+time of year	1	1
+trifling	1	1
+front	3	7
+guard	1	1
+flourish	1	1
+simply	1	2
+essential	1	2
+inch	1	1
+implore	1	2
+apparent	1	1
+connection	1	3
+shut	2	4
+start	4	8
+look like	1	1
+most	2	19
+cry out	1	2
+assize	1	1
+yourself	1	8
+hook	1	1
+moon	1	1
+fearful	1	1
+revolve	1	1
+fashion	1	5
+often	1	2
+broaden	1	1
+veil	2	3
+dependent	1	1
+dim	1	2
+sufficient	1	1
+send	2	6
+principal	1	1
+roof-tree	1	1
+weigh	1	1
+occur	3	9
+property	1	1
+dispel	1	1
+mouth	1	2
+direction	4	7
+livid	1	1
+all-comprehensive	1	1
+mistaken	1	1
+ant	1	1
+one-twenty	1	1
+die away	1	1
+keen	2	3
+print	2	2
+ashamed	1	1
+move	3	9
+ruin	2	2
+remove	2	2
+erect	1	1
+lift	1	1
+gallows	1	1
+camp-bed	1	1
+safety	1	1
+fellow	3	10
+cover	3	3
+meanwhile	1	3
+draught	1	2
+handkerchief	1	1
+ancestral	1	1
+norfolk	1	2
+gold	1	1
+however	4	20
+harm	2	3
+strength	2	4
+imprudence	1	1
+five	1	2
+clear up	1	1
+prove	3	7
+whistle	2	11
+on earth	1	1
+window-sills	1	1
+Roylott	1	2
+closely	1	1
+century	1	2
+quarter	1	3
+cold	4	4
+sleepy	1	1
+waken	1	1
+combine	1	1
+couple	3	5
+someone	1	3
+unusual	1	4
+unnecessary	1	1
+tangible	1	1
+lid	1	1
+at all	1	1
+lower	1	1
+escape	5	7
+wicker-work	1	1
+might	1	1
+maybe	1	2
+top	3	4
+screen	1	1
+break away	1	1
+either	1	2
+varied	1	1
+blind	1	1
+lotus	2	9
+touch	1	3
+whose	1	2
+sift	1	1
+lake	2	13
+cable	2	2
+rule	2	2
+Wilton carpet	1	1
+matter	3	17
+premature	1	1
+8	1	1
+hold back	1	1
+passage	1	2
+spin	2	2
+recall	2	3
+stolid	1	1
+obstacle	1	1
+sadness	1	1
+frame in	1	1
+four	1	2
+disappear	1	1
+compliance	1	1
+shine	4	5
+purely	1	1
+surroundings	1	2
+murder	1	3
+deal	1	1
+starting-point	1	2
+evident	1	1
+web	1	1
+earth	2	2
+something	1	10
+ahead	1	1
+early days	1	1
+vacancy	1	1
+match	2	5
+burn	3	3
+look forward	1	1
+america	1	3
+pressing	1	1
+price	1	2
+glance	2	5
+spend	2	5
+long	6	25
+refusal	1	1
+mrs.	1	14
+wed	1	1
+telegram	1	3
+grope for	1	1
+go on	3	3
+live in	1	1
+communicate	2	4
+blacksmith	1	1
+n	1	2
+book	2	2
+break into	1	2
+angrily	1	1
+a	1	3
+roughly	1	1
+fix	2	2
+bell-rope	1	1
+steam	2	2
+dr.	1	22
+soil	2	2
+myself	1	13
+make someone's acquaintance	1	1
+drawer	1	2
+neighbourhood	2	4
+date from	1	1
+flat	1	1
+hour	3	12
+especially	1	2
+check book	1	1
+manage	1	1
+untimely	1	1
+sitting-room	1	5
+least	2	2
+excite	1	1
+housekeeper	1	2
+spell	1	1
+arm's length	1	1
+marking	1	3

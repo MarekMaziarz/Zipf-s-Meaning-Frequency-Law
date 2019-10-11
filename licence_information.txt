@@ -1,0 +1,20 @@
+The presented data were obtained through merging information from corpora and wordnets. The are published under open licences.
+
+Frequency lists were taken from
+1. the site of the Centre for Translation Studies, University of Leeds (http://corpus.leeds.ac.uk/list.html); they are published under CC-BY licence (internet & general corpora, except Polish)
+2. the Language Technology Group G4.19 from Wroclaw  University  of  Science  and  Technology, Poland (http://nlp.pwr.wroc.pl/en/tools-and-resources/resources/frequency-list); published under CC BY-NC-SA 3.0 licence (Polish corpus).
+3. the data from Sherlock Holmes NTU-MC subcorpus were provided by Francis Bond; they are available at the site http://compling.hss.ntu.edu.sg/ntumc/ and published under the CC-BY licence.
+
+Wordnet data were excerpted from wordnets in the Open Multilingual Wordnet (http://compling.hss.ntu.edu.sg/omw/), and from Princeton WordNet (https://wordnet.princeton.edu/) and Polish WordNet (http://plwordnet.pwr.wroc.pl/wordnet/). They are available under the following licences:
+
+1. Princeton WordNet - WordNet licence (https://wordnet.princeton.edu/license-and-commercial-use)
+2. Polish WordNet - WordNet licence (http://plwordnet.pwr.wroc.pl/wordnet/licence)
+3. Chinese Open Wordnet - WordNet licence (http://compling.hss.ntu.edu.sg/omw/wns/cmn/LICENSE)
+4. WOLF (Wordnet Libre du Français) - CeCILL-C licence (http://compling.hss.ntu.edu.sg/omw/wns/fra/LICENSE)
+5. Japanese Wordnet - WordNet licence (http://compling.hss.ntu.edu.sg/omw/wns/jpn/LICENSE)
+6. Multilingual Central Repository (for Spanish) - CC BY 3.0
+7. Wordnet Bahasa - MIT licence (http://compling.hss.ntu.edu.sg/omw/wns/ind/LICENSE)
+8. OpenWN-PT - CC BY-SA
+
+to cite:
+Bond, Francis, Janz, Arkadiusz, Maziarz, Marek, and Rudnicka, Ewa (2019). Testing Zipf's meaning-frequency law with wordnets as sense inventories. In: Proceedings of the 10th Global Wordnet Conference, Wrocław.
