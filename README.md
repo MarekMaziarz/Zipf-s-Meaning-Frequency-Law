@@ -1,5 +1,5 @@
 # Zipf-s-Meaning-Frequency-Law
-Please read the following licence informations:
+Please read the following licence information:
 
 The presented data were obtained through merging information from corpora and wordnets. The are published under open licences.
 
