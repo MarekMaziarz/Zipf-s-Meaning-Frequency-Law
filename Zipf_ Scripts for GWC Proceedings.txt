@@ -21,20 +21,8 @@ a<-read.csv("out_en-reuters.txt",header=F,sep=";") # enr
 # a<-read.csv("out_zh-gigaword_words_full_no_100.txt",header=F,sep=";",encoding="UTF-8") # zhg
 
 
-
-
-
-
 list_length<-length(a[,1]) # the list length
 maximum_rank<-a$V1[list_length] # remember to have the list sorted by ranks
-
-
-
-
-
-
-
-
 
 
 step <- 50
@@ -47,85 +35,87 @@ wfreq<-matrix(0,round(maximum_bin_size/step,digits=0),6) # matrix storing data f
 
 # lambda - is a rank range
 for(lambda in seq(1, maximum_bin_size, by = step)){ # the main loop: seeking for results within different bin sizes (from 1 to 1000)
-k<-round(maximum_rank/lambda, digits = 0) # number of bins of a given size lambda
-m<-matrix(0,k,3) # auxiliary matrix storing mean values for consecutive bin sizes
-p<-0 # an auxiliary numerator
-pp<-0 # an auxiliary numerator
-old<-1 # an auxiliary numerator
-for(i in 1:k){ # calculate means for each bin of the size lambda
-for(j in old:list_length){
-if((a$V1[j] <= (100+i*lambda))&(a$V1[j] >= (100+(i-1)*lambda+1))){ # en jp
-p<-p+1 # counting number of instances within each bin
-# summing senses
-m[i,1]<-m[i,1]+a$V4[j]
-# summing frequencies - for each corpus you have to do this separately, because of different frequency count conventions
+  k<-round(maximum_rank/lambda, digits = 0) # number of bins of a given size lambda
+  m<-matrix(0,k,3) # auxiliary matrix storing mean values for consecutive bin sizes
+  p<-0 # an auxiliary numerator
+  pp<-0 # an auxiliary numerator
+  old<-1 # an auxiliary numerator
+  for(i in 1:k){ # calculate means for each bin of the size lambda
+    for(j in old:list_length){
+      if((a$V1[j] <= (100+i*lambda))&(a$V1[j] >= (100+(i-1)*lambda+1))){ # en jp
+        p<-p+1 # counting number of instances within each bin
+      
+        # summing senses
+        m[i,1]<-m[i,1]+a$V4[j]
+      
+        # summing frequencies - for each corpus you have to do this separately, because of different frequency count conventions
+        # m[i,2]<-m[i,2]+181.376006*a$V2[j] # en
+        m[i,2]<-m[i,2]+103.719610*a$V2[j] # enr
+        # m[i,2]<-m[i,2]+143.567378*a$V2[j] # es
+        # m[i,2]<-m[i,2]+185.102375*a$V2[j] # fr
+        # m[i,2]<-m[i,2]+253.071774*a$V2[j] # jp
+        # m[i,2]<-m[i,2]+a$V2[j] # pl
+        # m[i,2]<-m[i,2]+193.321224*a$V2[j] # pt
+        # m[i,2]<-m[i,2]+281.660631*a$V2[j] # zh
+        # m[i,2]<-m[i,2]+235.440752*a$V2[j] # zhg
 
 
-                               # m[i,2]<-m[i,2]+181.376006*a$V2[j] # en
-                               # m[i,2]<-m[i,2]+103.719610*a$V2[j] # enr
-                                m[i,2]<-m[i,2]+143.567378*a$V2[j] # es
-                                # m[i,2]<-m[i,2]+185.102375*a$V2[j] # fr
-# m[i,2]<-m[i,2]+253.071774*a$V2[j] # jp
-                                 # m[i,2]<-m[i,2]+a$V2[j] # pl
-                                      # m[i,2]<-m[i,2]+193.321224*a$V2[j] # pt
-                                # m[i,2]<-m[i,2]+281.660631*a$V2[j] # zh
-# m[i,2]<-m[i,2]+235.440752*a$V2[j] # zhg
+        # summing ranks
+        m[i,3]<-m[i,3]+a$V1[j]
+      }
+      if(p>0){pp<-pp+1} # if a bin is not empty
+      if(pp>lambda){ # if we jump out of a bin
+        old=j-lambda+p # this numerator shortens the loop for all bins of a given size
+        break}
+      }
+      if(p==0){ # if the bin is empty
+        m[i,1]<-NaN
+        m[i,2]<-NaN
+        m[i,3]<-NaN
+      } else { # average number of senses (1), frequency count (2), ranks (3)
+      m[i,1]<-m[i,1]/p
+      m[i,2]<-m[i,2]/p
+      m[i,3]<-m[i,3]/p
+    }
+    p<-0
+    pp<-0
+  }
 
+  m<-na.omit(m) # omit all values from empty bins
+  kk<-length(m[,1]) # number of bins when the size lambda is given
 
-# summing ranks
-m[i,3]<-m[i,3]+a$V1[j]
-}
-if(p>0){pp<-pp+1} # if a bin is not empty
-if(pp>lambda){ # if we jump out of a bin
-old=j-lambda+p # this numerator shortens the loop for all bins of a given size
-break}
-}
-if(p==0){ # if the bin is empty
-m[i,1]<-NaN
-m[i,2]<-NaN
-m[i,3]<-NaN
-} else { # average number of senses (1), frequency count (2), ranks (3)
-m[i,1]<-m[i,1]/p
-m[i,2]<-m[i,2]/p
-m[i,3]<-m[i,3]/p
-}
-p<-0
-pp<-0
-}
-m<-na.omit(m) # omit all values from empty bins
-kk<-length(m[,1]) # number of bins when the size lambda is given
-         if(kk>5000){ # some bootstrapping for the Shapiro-Wilk statistics
-                n<-matrix(0,kk,1)
-                nn<-matrix(0,5000,4)
-                for(jjj in 1:kk){n[jjj]<-jjj}
-                nn[,4]<-sample(n,5000,replace=FALSE,prob=NULL)
-                for(jjj in 1:5000){
-                        nn[jjj,1]<-m[nn[jjj,4],1]
-                              nn[jjj,2]<-m[nn[jjj,4],2]
-                              nn[jjj,3]<-m[nn[jjj,4],3]
-                }
-                m<-nn[,1:3]
-}
+  if(kk>5000){ # some bootstrapping for the Shapiro-Wilk statistics
+    n<-matrix(0,kk,1)
+    nn<-matrix(0,5000,4)
+    for(jjj in 1:kk){n[jjj]<-jjj}
+    nn[,4]<-sample(n,5000,replace=FALSE,prob=NULL)
+    for(jjj in 1:5000){
+      nn[jjj,1]<-m[nn[jjj,4],1]
+      nn[jjj,2]<-m[nn[jjj,4],2]
+      nn[jjj,3]<-m[nn[jjj,4],3]
+    }
+    m<-nn[,1:3]
+  }
+
+  # FREQUENCY
+  sum<-lm(log10(m[,1])~log10(m[,2]))
+  wfreq[(lambda+step-1)/step,1]<-summary(sum)$r.squared
+  wfreq[(lambda+step-1)/step,2]<-shapiro.test(sum$residuals)$p.value
+  wfreq[(lambda+step-1)/step,3]<-lambda # bin size (from the main loop)
+  wfreq[(lambda+step-1)/step,4]<-kk # number of points
+  wfreq[(lambda+step-1)/step,5]<-summary(sum)$coefficients[2]
+  wfreq[(lambda+step-1)/step,6]<-summary(sum)$coefficients[8]
   
-          # FREQUENCY
-          sum<-lm(log10(m[,1])~log10(m[,2]))
-          wfreq[(lambda+step-1)/step,1]<-summary(sum)$r.squared
-          wfreq[(lambda+step-1)/step,2]<-shapiro.test(sum$residuals)$p.value
-          wfreq[(lambda+step-1)/step,3]<-lambda # bin size (from the main loop)
-          wfreq[(lambda+step-1)/step,4]<-kk # number of points
-          wfreq[(lambda+step-1)/step,5]<-summary(sum)$coefficients[2]
-          wfreq[(lambda+step-1)/step,6]<-summary(sum)$coefficients[8]
-  
-          # RANK
-          sum<-lm(log10(m[,1])~log10(m[,3]))
-          wrank[(lambda+step-1)/step,1]<-summary(sum)$r.squared
-          wrank[(lambda+step-1)/step,2]<-shapiro.test(sum$residuals)$p.value
-          # wrank[(lambda+step-1)/step,2]<-ShapiroFranciaTest(sum$residuals)$p.value
-          wrank[(lambda+step-1)/step,3]<-lambda
-          wrank[(lambda+step-1)/step,4]<-kk #
-          wrank[(lambda+step-1)/step,5]<-summary(sum)$coefficients[2]
-          wrank[(lambda+step-1)/step,6]<-summary(sum)$coefficients[8]
+  # RANK
+  sum<-lm(log10(m[,1])~log10(m[,3]))
+  wrank[(lambda+step-1)/step,1]<-summary(sum)$r.squared
+  wrank[(lambda+step-1)/step,2]<-shapiro.test(sum$residuals)$p.value
+  wrank[(lambda+step-1)/step,3]<-lambda
+  wrank[(lambda+step-1)/step,4]<-kk #
+  wrank[(lambda+step-1)/step,5]<-summary(sum)$coefficients[2]
+  wrank[(lambda+step-1)/step,6]<-summary(sum)$coefficients[8]
 }
+
 write.csv(wrank,"wrank_GI.csv")
 write.csv(wfreq,"wfreq_GI.csv")
 
